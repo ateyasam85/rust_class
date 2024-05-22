@@ -9,3 +9,4 @@ pub fn main()
     }
 
 }
+nano
